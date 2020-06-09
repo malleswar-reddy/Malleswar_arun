@@ -14,12 +14,13 @@ https://www.programmersought.com/article/683793165/
 * @ApiOperation : A method describing the class, or an interface
 
 ## Spring 
-  ### @configuration
+  * @configuration
     
-      * Spring @Configuration annotation helps in Spring annotation based configuration. @Configuration annotation indicates that a class declares one or more @Bean methods and may be processed by the Spring container to generate bean definitions and service requests for those beans at runtime.
+      Spring @Configuration annotation helps in Spring annotation based configuration. @Configuration annotation indicates that a class declares one or more @Bean methods and may be processed by the Spring container to generate bean definitions and service requests for those beans at runtime.
 
-   ###   @EnableConfigurationProperties 
-     * Spring EnableConfigurationProperties annotation is strictly connected to @ConfiguratonProperties. It enables support for @ConfigurationProperties annotated classes in our application. However, it's worth to point out that the Spring Boot documentation says, every project automatically includes @EnableConfigurationProperties
+   *  @EnableConfigurationProperties 
+     
+     Spring EnableConfigurationProperties annotation is strictly connected to @ConfiguratonProperties. It enables support for @ConfigurationProperties annotated classes in our application. However, it's worth to point out that the Spring Boot documentation says, every project automatically includes @EnableConfigurationProperties
 
 ##  spring Boot 
 
@@ -41,6 +42,7 @@ https://www.programmersought.com/article/683793165/
 ###   SLF4J  Simple Logging Facade for Java
 
  * [@Sif4j](http://www.slf4j.org/docs.html)
+
 
 
 
