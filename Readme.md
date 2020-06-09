@@ -81,8 +81,8 @@ public class MailProperties {
     @Data is a convenient shortcut annotation that bundles the features of @ToString , @EqualsAndHashCode , @Getter / @Setter and @RequiredArgsConstructor together: In other words, @Data generates all the boilerplate that is normally associated with simple POJOs (Plain Old Java Objects) and beans: getters for all fields
 
   * [@ToString](https://projectlombok.org/features/ToString)
-
-        @ToString annotation enables you to avoid having to manually write a toString() method while inspecting fields for your objects.
+  
+      @ToString annotation enables you to avoid having to manually write a toString() method while inspecting fields for your objects.
 
     
   
