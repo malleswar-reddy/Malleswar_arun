@@ -18,7 +18,7 @@ https://www.programmersought.com/article/683793165/
     
       Spring @Configuration annotation helps in Spring annotation based configuration. @Configuration annotation indicates that a class declares one or more @Bean methods and may be processed by the Spring container to generate bean definitions and service requests for those beans at runtime.
 
-   *  @EnableConfigurationProperties 
+   * @EnableConfigurationProperties 
      
      Spring EnableConfigurationProperties annotation is strictly connected to @ConfiguratonProperties. It enables support for @ConfigurationProperties annotated classes in our application. However, it's worth to point out that the Spring Boot documentation says, every project automatically includes @EnableConfigurationProperties
 
