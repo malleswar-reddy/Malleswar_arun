@@ -45,7 +45,8 @@ myapp.mail.port=250
 ```
 Example code   
 
-```@ConfigurationProperties(prefix="myapp.mail")
+```
+@ConfigurationProperties(prefix="myapp.mail")
 public class MailProperties {
 
   private String to;
@@ -54,6 +55,7 @@ public class MailProperties {
 
   //Setter and getter methods
 }
+
 ```
   <https://www.boraji.com/spring-boot-configurationproperties-example>
 
