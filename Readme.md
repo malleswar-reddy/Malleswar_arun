@@ -31,6 +31,7 @@ https://www.programmersought.com/article/683793165/
 [@currentuser](https://stackoverflow.com/questions/31159075/how-to-find-out-the-currently-logged-in-user-in-spring-boot)
 
 @ConfigurationProperties
+
   In Spring Boot, the @ConfigurationProperties annotation allows us to map the resource files such as properties or YAML files to Java Bean object.
 
 This annotation is applied to a class or a @Bean method in a @Configuration class to map or validate the external properties or YAML files.
